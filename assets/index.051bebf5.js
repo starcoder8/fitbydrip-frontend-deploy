@@ -1,0 +1,1 @@
+const r=t=>t==null||t===""?!0:!!(Array.isArray(t)&&t.length===0),e=t=>t==null,s=t=>Array.isArray(t)&&t.length===0,i=t=>{const n=new Date;return t.getDate()===n.getDate()&&t.getMonth()===n.getMonth()&&t.getFullYear()===n.getFullYear()};export{s as a,r as b,i as c,e as i};
